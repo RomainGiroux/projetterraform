@@ -1,2 +1,3 @@
-*.tf
-*.tfvars
+main.tf
+variable.tf
+profil.tfvars
